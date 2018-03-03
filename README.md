@@ -10,8 +10,8 @@ This can be used in a group or to input noise in the rotation, for example.
 
 ## How to use
 
-1. In a blender file, File > Append, select the .blend file from this repository.
-2. In the node editor, Shift-A, Group, then PointMapping.
+1. In Blender, File > Append, enter the .blend file from this repository, the “NodeTree”, and select “PointMapping”;
+2. in the node editor, Shift-A, Group, then PointMapping.
 
 There are also groups that to only rotation around the X, Y, or Z axis.
 
