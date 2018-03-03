@@ -13,7 +13,7 @@ This can be used in a group or to input noise in the rotation, for example.
 1. In Blender, File > Append, enter the .blend file from this repository, the “NodeTree”, and select “PointMapping”;
 2. in the node editor, Shift-A, Group, then PointMapping.
 
-There are also groups that to only rotation around the X, Y, or Z axis.
+There are also groups that only do rotation around the X, Y, or Z axis.
 
 ## How it works
 
